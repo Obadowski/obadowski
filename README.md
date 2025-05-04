@@ -2,8 +2,8 @@
 
 But you all can call me as Oba(dowski).
 
-- 🔭 I’m currently working on some Flutter ideas, blogging and Python (Data science mainly) projects
-- 🌱 I’m currently learning Flutter development
+- 🔭 I’m currently working on enhancing my developer skilss
+- 🌱 I’m currently learning Frontend development (Node.js)
 
 
 <!--
