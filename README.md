@@ -2,9 +2,9 @@
 
 But you all can call me as Oba(dowski).
 
-- 🔭 I’m currently working on enhancing my developer skilss
-- 🌱 I’m currently learning Frontend development (Node.js)
-
+- 🔭 I’m currently working towards a PhD degree on Electrical Engineering on USP;
+- 🌱 I’m currently learning Philosophy of Science, Epistemology, Safety and a bunch of endless strings that start at these fields...
+- 
 
 <!--
 **Obadowski/obadowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
