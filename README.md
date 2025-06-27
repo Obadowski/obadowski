@@ -4,7 +4,7 @@ But you all can call me as Oba(dowski).
 
 - 🔭 I’m currently working towards a PhD degree on Electrical Engineering on USP;
 - 🌱 I’m currently learning Philosophy of Science, Epistemology, Safety and a bunch of endless strings that start at these fields...
-- 
+- 📫 How to reach me: vobadowski@gmail.com
 
 <!--
 **Obadowski/obadowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
